@@ -1,36 +1,15 @@
 # world_of_heavens
  
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<!-- Add icon library -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style>
-.btn {
-  background-color: DodgerBlue;
-  border: none;
-  color: white;
-  padding: 12px 30px;
-  cursor: pointer;
-  font-size: 20px;
-}
-
-/* Darker background on mouse-over */
-.btn:hover {
-  background-color: RoyalBlue;
-}
-</style>
-</head>
-<body>
-
-<h2>Style Download Buttons</h2>
-
-<p>Auto width:</p>
-<button class="btn"><i class="fa fa-download"></i> Download</button>
-
-<p>Full width:</p>
-<button class="btn" style="width:100%"><i class="fa fa-download"></i> Download</button>
-
-</body>
-</html>
+<section class="movie">
+  <img
+    alt="His Girl Friday."
+    class="movie__poster"
+    src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/11907/download-movie-poster.jpg" />
+  <div class="movie__instructions">
+    <p>
+      <a download href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/11907/His%20Girl%20Friday%20%7C%20Public%20Domain%20Movies.webloc">Download movie</a>
+    </p>
+    <p class="movie__download-duration">
+      <small>1.2 <abbr title="Gigabytes">GB</abbr>. A download of this size typically takes 15&ndash;25 minutes on an average connection for your area.</small>
+    </p>
+  </div>
