@@ -1,7 +1,8 @@
 # world_of_heavens
 
  original game was created by dominator
- 
+# instructions
+once you downloaded the zip file unzip it, and open the updater.exe file it will download the rest of the game into the folder.
 Vk russian 
 https://vk.com/world_of_heavens
 Telegram https://t.me/world_of_heavens
