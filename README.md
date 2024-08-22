@@ -2,9 +2,14 @@
 
  original game was created by dominator
  
- Vk russian 
+ <H2>Vk russian</H2>H2>
 For all official updates: https://vk.com/world_of_heavens
 Telegram https://t.me/world_of_heavens
+
+<H2>Game EXE download</H2>
+
+https://github.com/omfghello/World_of_Heavens_UPDATER/releases/tag/update
+
 # instructions
 make sure you download the dot net file and open the executable: https://mega.nz/file/nM5RRBwK#9KfDQ2AGCrlVdGl0Ce_DC-2w6HKTvK4qyw-8BTCwMyw, if you had the issue of the game not installing this should fix it. once you downloaded the zip file unzip it, and open the updater.exe file it will download the rest of the game into the folder.
 
@@ -16,3 +21,4 @@ The game World of Heavens Impressive Title Server is developed on the basis of t
 The game World of Heavens Impressive Title Server is developed on the basis of the OGRE3D engine and offers a lot of functionality. In it you will find a category of furry games, where the main characters are zoomorphic animals inspired by the cartoon "The Lion King".
 
 The server status is always online, which means that you can play at any convenient time. The beta version of the game was released on March 3, 2023.
+
