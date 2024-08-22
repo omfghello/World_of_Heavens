@@ -2,7 +2,7 @@
 
  original game was created by dominator
  
-<H2>Vk russian</H2>H2>
+<H2>Vk russian</H2>
 For all official updates: https://vk.com/world_of_heavens
 Telegram https://t.me/world_of_heavens
 
