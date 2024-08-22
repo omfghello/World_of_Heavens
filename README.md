@@ -10,7 +10,8 @@ Telegram https://t.me/world_of_heavens</p>
 https://github.com/omfghello/World_of_Heavens_UPDATER/releases/tag/update
 
 # instructions
-make sure you download the dot net file and open the executable: https://mega.nz/file/nM5RRBwK#9KfDQ2AGCrlVdGl0Ce_DC-2w6HKTvK4qyw-8BTCwMyw, if you had the issue of the game not installing this should fix it. once you downloaded the zip file unzip it, and open the updater.exe file it will download the rest of the game into the folder.
+
+Once the zip file from the link above is installed, unzip it and open the world of heavens exe file and it will put you into the game
 
 # About the game
 World of Heavens is an exciting game in which you can play as various animals, create your own character, hunt mobs and collect decorations for him. The game also features various activities, such as mafia, races, gatherings, gatherings at the def and role-playing games. You will be able to travel through various maps, participate in PVP battles, create your own clans and maps.
