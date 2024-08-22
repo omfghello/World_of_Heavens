@@ -3,7 +3,7 @@
  original game was created by dominator
  
  Vk russian 
-https://vk.com/world_of_heavens
+For all official updates: https://vk.com/world_of_heavens
 Telegram https://t.me/world_of_heavens
 # instructions
 make sure you download the dot net file and open the executable: https://mega.nz/file/nM5RRBwK#9KfDQ2AGCrlVdGl0Ce_DC-2w6HKTvK4qyw-8BTCwMyw, if you had the issue of the game not installing this should fix it. once you downloaded the zip file unzip it, and open the updater.exe file it will download the rest of the game into the folder.
