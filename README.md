@@ -12,6 +12,7 @@ https://github.com/omfghello/World_of_Heavens_UPDATER/releases/tag/update
 # instructions
 
 Once the zip file from the link above is installed, unzip it and open the world of heavens exe file and it will put you into the game
+The updater folder is now integrated with the rest of the game files
 
 # About the game
 World of Heavens is an exciting game in which you can play as various animals, create your own character, hunt mobs and collect decorations for him. The game also features various activities, such as mafia, races, gatherings, gatherings at the def and role-playing games. You will be able to travel through various maps, participate in PVP battles, create your own clans and maps.
